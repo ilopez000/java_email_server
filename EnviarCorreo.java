@@ -48,3 +48,4 @@ public class EnviarCorreo {
 }
 
 //descargar librería http://www.java2s.com/Code/Jar/j/Downloadjavaxmailjar.htm
+//poner librería en IntelliJ https://stackoverflow.com/questions/1051640/correct-way-to-add-external-jars-lib-jar-to-an-intellij-idea-project
